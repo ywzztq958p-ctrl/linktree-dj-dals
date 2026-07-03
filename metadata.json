@@ -1,0 +1,6 @@
+{
+  "name": "DJ DALS - Linktree",
+  "description": "Page Linktree moderne, sombre et professionnelle de DJ DALS, DJ & Producteur basé au Québec.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
